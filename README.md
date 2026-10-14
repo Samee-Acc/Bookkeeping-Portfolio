@@ -1,64 +1,107 @@
-# Bookkeeping-Portfolio
-Sample bookkeeping templates and dashboards for small businesses using Xero and Microsoft Excel
-#  Remote Bookkeeping Portfolio
+# Sameela Mirando | Bookkeeping, Procurement & Administrative Support
 
-###  Hi, I’m Sameela Mirando
+**Remote Bookkeeping | Accounts Payable & Receivable | Procurement Support | Administrative Assistance | Excel Reporting**
 
-I’m a **Remote Freelance Bookkeeper and Virtual Assistant** from **Sri Lanka 🇱🇰**,  
-with over **17 years of experience** in accounting, administration, and business support.
+Welcome to my professional portfolio!
 
-I help small and medium businesses stay **financially organized** using  
-**Xero**, **QuickBooks Online**, and **Excel**.
+I am a finance, purchasing, and administrative professional based in Sri Lanka, with experience in financial operations, procurement coordination, supplier management, and business administration.
 
+I support businesses by maintaining organized financial records, coordinating purchasing activities, managing supplier documentation, and providing reliable administrative assistance. My goal is to help business owners and teams save time, improve accuracy, and keep their daily operations running smoothly.
 
+I am interested in remote and part-time opportunities supporting small businesses, entrepreneurs, and international teams in the **UK, USA, Australia, and other markets**.
 
-##  What I Do
+## 💼 My Services
 
-- 📊 Bookkeeping & Bank Reconciliation  
-- 💼 Accounts Receivable / Payable Management  
-- 🧾 Financial Reporting (P&L, Balance Sheet, Cash Flow)  
-- ⚙️ Xero & QuickBooks Setup and Maintenance  
-- 📑 Excel Templates, Dashboards, and Automation  
-- 🌐 Cloud-based collaboration with clients worldwide  
+### 📊 1. Bookkeeping & Accounting Support
+- Recording and categorizing financial transactions
+- Accounts payable and supplier invoice processing
+- Accounts receivable and customer invoice management
+- Bank and account reconciliations
+- Payment tracking and outstanding balance reports
+- Expense summaries and month-end support
+- Financial reports, including profit and loss and balance sheet preparation support
 
----
+### 🛒 2. Procurement & Purchasing Support
+- Purchase requisition and purchase order coordination
+- Supplier sourcing and quotation comparison
+- Supplier data management and documentation
+- Purchase order tracking and delivery follow-ups
+- Supplier performance monitoring and evaluation
+- Invoice, delivery note, and purchase order verification
+- Shipment coordination and procurement reporting
+- Cost monitoring and purchasing record maintenance
 
-## Tools & Skills
+### 🗂️ 3. Administrative & Virtual Assistant Support
+- Data entry and spreadsheet management
+- Email correspondence and follow-ups
+- Document preparation and recordkeeping
+- Report preparation and data organization
+- File management and document control
+- Scheduling and task coordination
+- Maintaining databases and updating business records
+- General operational and administrative assistance
 
-| Category | Tools / Skills |
-|-----------|----------------|
-| Accounting Software | Xero • QuickBooks Online |
-| Reporting & Analysis | Excel • Power BI (beginner) |
-| Administration | Google Workspace • Trello • CRM tools |
-| Communication | Email & Virtual Assistant Support |
-| Learning | CMA Sri Lanka (Chartered Management Accountant) |
+### 📈 4. Excel & Reporting Support
+- Excel formulas and data analysis
+- Expense and budget tracking
+- Financial and procurement reports
+- Data cleaning and spreadsheet organization
+- Summary reports and performance monitoring
+- Preparation of structured templates for business operations
 
----
+## 🛠️ Tools & Software
 
-##  Projects & Templates
+- **Accounting:** Xero, QuickBooks Online, Tally, FreshBooks
+- **ERP & Procurement:** IFS Cloud
+- **Productivity & Reporting:** Microsoft Excel, Microsoft Word, Microsoft Outlook
+- **Collaboration:** Email and online document management tools
 
-Here you’ll find a collection of:
-- Excel bookkeeping templates  
-- Financial statement samples  
-- Power BI dashboards for financial analysis  
-- Client onboarding and workflow checklists  
+*My proficiency varies by application and task. I am continuing to develop my skills in cloud accounting and reporting tools.*
 
+## 📂 My Portfolio Projects
 
+This repository contains selected work samples demonstrating my approach to bookkeeping, financial reporting, procurement, and administration.
 
----
+- **Bank Reconciliation:** Matching bank transactions and identifying differences.
+- **Financial Reporting:** Organizing accounting information and preparing financial statement examples.
+- **Expense Management:** Categorizing expenses and preparing summary reports.
+- **Budgeting & Forecasting:** Organizing budget data and monitoring planned versus actual results.
+- **Procurement & Supplier Management:** Purchase tracking, supplier evaluation, and procurement reporting.
+- **Administrative Support:** Structured spreadsheets, documentation, and organized business records.
 
-##  Current Learning Goals
+Please explore the project folders to review the available samples.
 
-- Improving Power BI financial dashboards  
-- Expanding automation with Excel formulas & macros  
-- Enhancing online bookkeeping workflow for remote clients  
+## 🌟 Professional Strengths
 
+- Attention to detail and accuracy
+- Strong organizational and recordkeeping skills
+- Supplier coordination and professional communication
+- Analytical thinking and problem-solving
+- Confidential handling of business information
+- Time management and task prioritization
+- Willingness to learn new systems and processes
+- Reliable support for remote teams across different time zones
 
-Refer my profiles
-Upwork- https://www.upwork.com/freelancers/~01019c9d9daa0cfa5f?mp_source=share
-Fiver : https://www.fiverr.com/s/99ajLAY
-LinkdIn : Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sameela-mirando-a1a759149
+## 🤝 Who I Can Support
 
+I can assist small businesses, entrepreneurs, consultants, and growing companies that need support with:
 
+- Day-to-day bookkeeping and accounting administration
+- Procurement coordination and supplier follow-ups
+- Invoice and payment tracking
+- Data entry and spreadsheet maintenance
+- Business documentation and reporting
+- General virtual assistance and operational support
 
- *Thank you for visiting my portfolio! Feel free to explore my projects and templates.*  
+## 📬 Contact & Professional Profiles
+
+**Name:** Sameela Mirando  
+**Location:** Sri Lanka  
+**Work preference:** Remote and part-time opportunities with flexible international working hours
+
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sameela-mirando-a1a759149/)
+- **GitHub:** [Explore my portfolio](https://github.com/Samee-Acc/Bookkeeping-Portfolio)
+
+I welcome opportunities to provide dependable bookkeeping, procurement, and administrative support to businesses looking for an organized and detail-oriented remote professional.
+
+*Portfolio samples are provided for demonstration purposes. Confidential business and client information should not be included in publicly shared files.*
